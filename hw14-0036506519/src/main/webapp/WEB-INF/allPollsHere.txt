@@ -1,0 +1,31 @@
+Glasanje za omiljeni bend:	Od sljedećih bendova, koji Vam je bend najdraži? Kliknite na link kako biste glasali!
+The Beatles	https://www.youtube.com/watch?v=z9ypq6_5bsg
+The Platters	https://www.youtube.com/watch?v=H2di83WAOhU
+The Beach Boys	https://www.youtube.com/watch?v=2s4slliAtQU
+The Four Seasons	https://www.youtube.com/watch?v=y8yvnqHmFds
+The Marcels	https://www.youtube.com/watch?v=qoi3TH59ZEs
+The Everly Brothers	https://www.youtube.com/watch?v=tbU3zdAgiX8
+The Mamas And The Papas	https://www.youtube.com/watch?v=N-aK6JnyFmk
+
+Glasanje za omiljenu boju:	Od ovih boja izaberi najdražu.
+Crvena	https://www.colorpsychology.org/red/
+Plava	https://www.colorpsychology.org/blue/
+Zelena	https://www.colorpsychology.org/green/
+Žuta	https://www.colorpsychology.org/yellow/
+Roza	https://www.colorpsychology.org/pink/
+Ljubičasta	https://www.colorpsychology.org/purple/
+Narančasta	https://www.colorpsychology.org/orange/
+
+Glasanje za najdraži kolegij na FER-u:	Odaberi najdraži kolegij od ponuđenih.
+Objektno orijentirano programiranje	https://www.fer.unizg.hr/predmet/oop
+Elektronika 1	https://www.fer.unizg.hr/predmet/ele1
+Vještine komuniciranja	https://www.fer.unizg.hr/predmet/vjekom
+Osnove programskog jezika Java	https://www.fer.unizg.hr/predmet/opjj
+Digitalna logika	https://www.fer.unizg.hr/predmet/diglog
+Signali i sustavi	https://www.fer.unizg.hr/predmet/sis2
+Seminar	https://www.fer.unizg.hr/predmet/seminar
+Matematika 3R	https://www.fer.unizg.hr/predmet/mat3r
+Algoritmi i strukture podataka	https://www.fer.unizg.hr/predmet/asp
+Baze podataka	https://www.fer.unizg.hr/predmet/bazepod
+Operacijski sustavi	https://www.fer.unizg.hr/predmet/os
+Osnove elektrotehnike	https://www.fer.unizg.hr/predmet/osnele

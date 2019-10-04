@@ -1,0 +1,63 @@
+modric.jpg
+Najbolji igrač na svijetu, Luka Modrić
+nogomet,sport
+plitvice.jpg
+Nacionalni park Plitvička jezera
+priroda, nacionalni park
+dubrovnik.jpg
+Grad Dubrovnik
+more,grad
+tesla.jpeg
+Nikola Tesla
+izumitelj
+vatreni98.jpg
+Nogometna reprezentacija koja je 1998. godine osvojila 3. mjesto na SP u Francuskoj
+nogomet,sport
+vatreni2018.jpeg
+Nogometna reprezentacija koja je 2018. godine osvojila 2. mjesto na SP u Rusiji
+nogomet,sport
+zagreb.jpg
+Glavni grad Hrvatske, Zagreb
+grad
+zlatni_rat.jpg
+Plaža Zlatni rat, Bol na Braču
+plaza,more
+vis.jpg
+Otok Vis
+more, otok
+sandra_perkovic.jpg
+Bacačica diska Sandra Perković
+sport, atletika
+pula.jpg
+Grad Pula
+grad
+krka.jpg
+Nacionalni park Krka
+priroda, nacionalni park
+janica.jpg
+Skijašica Janica Kostelić
+sport, skijanje
+drazen_petrovic.jpeg
+Poginuli košarkaš Dražen Petrović
+košarka, sport
+dinamo.jpg
+Hrvatski nogometni prvak Dinamo iz Zagreba
+nogomet, sport
+cro_cop.jpg
+Hrvatski MMA borac Mirko Cro Cop Filipović
+sport, mma
+blanka_vlasic.png
+Hrvatska atletičarka Blanka Vlašić
+atletika, sport
+ivica_kostelic.jpg
+Hrvatski skijaš Ivica Kostelić
+sport, skijanje
+zadar.jpg
+Grad Zadar
+grad
+sjeverni_velebit.jpg
+Nacionalni park Sjeverni Velebit
+priroda, nacionalni park
+split.jpg
+Grad Split
+grad, more

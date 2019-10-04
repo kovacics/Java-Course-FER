@@ -1,0 +1,58 @@
+body {
+    background-color: cornflowerblue;
+}
+
+.header {
+    text-align: center;
+    font-size: 200%;
+}
+
+.buttons {
+    text-align: center;
+}
+
+.buttons .tagButton {
+    background-color: #ff2d2d;
+    color: white;
+    padding: 14px 28px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border: none;
+}
+
+.buttons .tagButton:hover {
+    color: dodgerblue;
+}
+
+.images {
+    text-align: center;
+}
+
+.imageInfo {
+    text-align: center;
+    padding: 20px;
+}
+
+.imageInfo .tag {
+    color: gold;
+    font-size: 14px;
+}
+
+.imageInfo .fullImg {
+    border: 3px solid black;
+}
+
+.thumbnail {
+    margin: 6px 6px;
+}
+
+.thumbnail:hover {
+    filter: brightness(120%);
+}
+
+.images{
+    font-size: 0;
+}
